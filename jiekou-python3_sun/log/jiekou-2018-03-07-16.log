@@ -1,0 +1,86 @@
+[2018-03-07 16:24:23.797487] INFO: jiekou: 当前模块 requests封装
+[2018-03-07 16:24:25.210487] INFO: jiekou: 当前模块 解析测试用例文件
+[2018-03-07 16:24:28.947487] INFO: jiekou: 当前模块 解析测试用例文件
+[2018-03-07 16:24:28.953487] INFO: jiekou: 当前模块 测试
+[2018-03-07 16:24:36.296487] INFO: jiekou: inputdata> 参数:sasa, url:http://www.tuling123.com/openapi/api ,返回:{'text': '亲爱的，参数异常。', 'code': 40007},预期:code=40001
+[2018-03-07 16:24:36.297487] INFO: jiekou: 当前模块 断言测试结果
+[2018-03-07 16:24:44.009487] INFO: jiekou: inputdata> 参数:, url:https://api.douban.com/v2/photo/:id ,返回:{'msg': 'uri_not_found', 'request': 'GET /v2/photo/:id', 'code': 1001},预期:code=1001&msg=uri_not_found
+[2018-03-07 16:24:44.011487] INFO: jiekou: 当前模块 断言测试结果
+[2018-03-07 16:24:44.024487] INFO: jiekou: inputdata> 参数:{"username":"sun","password":"111"}, url:http://192.168.142.130:8888/signin ,返回:{'code': '000000'},预期:code=000000
+[2018-03-07 16:24:44.025487] INFO: jiekou: 当前模块 断言测试结果
+[2018-03-07 16:24:44.816487] INFO: jiekou: 当前模块 保存测试结果
+[2018-03-07 16:25:40.754487] INFO: jiekou: 当前模块 requests封装
+[2018-03-07 16:25:40.838487] INFO: jiekou: 当前模块 解析测试用例文件
+[2018-03-07 16:25:40.856487] INFO: jiekou: 当前模块 解析测试用例文件
+[2018-03-07 16:25:40.862487] INFO: jiekou: 当前模块 测试
+[2018-03-07 16:25:40.901487] INFO: jiekou: inputdata> 参数:sasa, url:http://www.tuling123.com/openapi/api ,返回:{'text': '亲爱的，参数异常。', 'code': 40007},预期:code=40001
+[2018-03-07 16:25:40.902487] INFO: jiekou: 当前模块 断言测试结果
+[2018-03-07 16:25:41.376487] INFO: jiekou: inputdata> 参数:, url:https://api.douban.com/v2/photo/:id ,返回:{'msg': 'uri_not_found', 'request': 'GET /v2/photo/:id', 'code': 1001},预期:code=1001&msg=uri_not_found
+[2018-03-07 16:25:41.377487] INFO: jiekou: 当前模块 断言测试结果
+[2018-03-07 16:25:41.383487] INFO: jiekou: inputdata> 参数:{"username":"sun","password":"111"}, url:http://192.168.142.130:8888/signin ,返回:{'code': '000000'},预期:code=000000
+[2018-03-07 16:25:41.384487] INFO: jiekou: 当前模块 断言测试结果
+[2018-03-07 16:25:41.481487] INFO: jiekou: 当前模块 保存测试结果
+[2018-03-07 16:26:09.375487] INFO: jiekou: 当前模块 requests封装
+[2018-03-07 16:26:09.417487] INFO: jiekou: 当前模块 解析测试用例文件
+[2018-03-07 16:26:09.435487] INFO: jiekou: 当前模块 解析测试用例文件
+[2018-03-07 16:26:09.439487] INFO: jiekou: 当前模块 测试
+[2018-03-07 16:26:09.480487] INFO: jiekou: inputdata> 参数:sasa, url:http://www.tuling123.com/openapi/api ,返回:{'text': '亲爱的，参数异常。', 'code': 40007},预期:code=40001
+[2018-03-07 16:26:09.481487] INFO: jiekou: 当前模块 断言测试结果
+[2018-03-07 16:26:09.984487] INFO: jiekou: inputdata> 参数:, url:https://api.douban.com/v2/photo/:id ,返回:{'request': 'GET /v2/photo/:id', 'code': 1001, 'msg': 'uri_not_found'},预期:code=1001&msg=uri_not_found
+[2018-03-07 16:26:09.985487] INFO: jiekou: 当前模块 断言测试结果
+[2018-03-07 16:26:10.099487] INFO: jiekou: inputdata> 参数:{"username":"sun","password":"111"}, url:http://192.168.142.130:8888/signin ,返回:{'code': '000000'},预期:code=000000
+[2018-03-07 16:26:10.101487] INFO: jiekou: 当前模块 断言测试结果
+[2018-03-07 16:26:10.166487] INFO: jiekou: 当前模块 保存测试结果
+[2018-03-07 16:27:15.713487] INFO: jiekou: 当前模块 requests封装
+[2018-03-07 16:27:15.887487] INFO: jiekou: 当前模块 生成数据驱动所用数据
+[2018-03-07 16:27:15.887487] INFO: jiekou: 当前模块 解析测试用例文件
+[2018-03-07 16:27:16.041487] INFO: jiekou: 测试用例开始执行
+[2018-03-07 16:27:16.041487] INFO: jiekou: 输入参数：url:http://www.tuling123.com/openapi/api,key:aaaa,参数:sasa,请求方式：POST
+[2018-03-07 16:27:16.042487] INFO: jiekou: 输入参数：url:http://www.tuling123.com/openapi/api,key:aaaa,参数:sasa,请求方式：None
+[2018-03-07 16:27:16.150487] INFO: jiekou: 返回结果:{'text': '亲爱的，参数异常。', 'code': 40007}
+[2018-03-07 16:27:16.151487] INFO: jiekou: 当前模块 断言测试结果
+[2018-03-07 16:27:16.152487] INFO: jiekou: 测试用例执行完毕
+[2018-03-07 16:27:16.152487] INFO: jiekou: 测试用例开始执行
+[2018-03-07 16:27:16.153487] INFO: jiekou: 输入参数：url:https://api.douban.com/v2/photo/:id,key:,参数:,请求方式：GET
+[2018-03-07 16:27:16.153487] INFO: jiekou: 输入参数：url:https://api.douban.com/v2/photo/:id,key:,参数:,请求方式：None
+[2018-03-07 16:27:16.746487] INFO: jiekou: 返回结果:{'request': 'GET /v2/photo/:id', 'msg': 'uri_not_found', 'code': 1001}
+[2018-03-07 16:27:16.746487] INFO: jiekou: 当前模块 断言测试结果
+[2018-03-07 16:27:16.747487] INFO: jiekou: 测试用例执行完毕
+[2018-03-07 16:27:16.748487] INFO: jiekou: 测试用例开始执行
+[2018-03-07 16:27:16.748487] INFO: jiekou: 输入参数：url:http://192.168.142.130:8888/signin,key:,参数:{"username":"sun","password":"111"},请求方式：POST
+[2018-03-07 16:27:16.749487] INFO: jiekou: 输入参数：url:http://192.168.142.130:8888/signin,key:,参数:{"username":"sun","password":"111"},请求方式：None
+[2018-03-07 16:27:16.756487] INFO: jiekou: 返回结果:{'code': '000000'}
+[2018-03-07 16:27:16.757487] INFO: jiekou: 当前模块 断言测试结果
+[2018-03-07 16:27:16.758487] INFO: jiekou: 测试用例执行完毕
+[2018-03-07 16:32:41.184487] INFO: jiekou: 当前模块 requests封装
+[2018-03-07 16:32:41.289487] INFO: jiekou: 当前模块 生成数据驱动所用数据
+[2018-03-07 16:32:41.290487] INFO: jiekou: 当前模块 解析测试用例文件
+[2018-03-07 16:32:41.313487] INFO: jiekou: 测试用例开始执行
+[2018-03-07 16:32:41.314487] INFO: jiekou: 输入参数：url:http://www.tuling123.com/openapi/api,key:aaaa,参数:sasa,请求方式：POST
+[2018-03-07 16:32:41.314487] INFO: jiekou: 输入参数：url:http://www.tuling123.com/openapi/api,key:aaaa,参数:sasa,请求方式：None
+[2018-03-07 16:32:41.363487] INFO: jiekou: 返回结果:{'code': 40007, 'text': '亲爱的，参数异常。'}
+[2018-03-07 16:32:41.364487] INFO: jiekou: 当前模块 断言测试结果
+[2018-03-07 16:32:41.364487] INFO: jiekou: 测试用例执行完毕
+[2018-03-07 16:32:41.365487] INFO: jiekou: 测试用例开始执行
+[2018-03-07 16:32:41.365487] INFO: jiekou: 输入参数：url:https://api.douban.com/v2/photo/:id,key:,参数:,请求方式：GET
+[2018-03-07 16:32:41.366487] INFO: jiekou: 输入参数：url:https://api.douban.com/v2/photo/:id,key:,参数:,请求方式：None
+[2018-03-07 16:32:42.665487] INFO: jiekou: 返回结果:{'code': 1001, 'msg': 'uri_not_found', 'request': 'GET /v2/photo/:id'}
+[2018-03-07 16:32:42.665487] INFO: jiekou: 当前模块 断言测试结果
+[2018-03-07 16:32:42.666487] INFO: jiekou: 测试用例执行完毕
+[2018-03-07 16:32:42.667487] INFO: jiekou: 测试用例开始执行
+[2018-03-07 16:32:42.667487] INFO: jiekou: 输入参数：url:http://192.168.142.130:8888/signin,key:,参数:{"username":"sun","password":"111"},请求方式：POST
+[2018-03-07 16:32:42.668487] INFO: jiekou: 输入参数：url:http://192.168.142.130:8888/signin,key:,参数:{"username":"sun","password":"111"},请求方式：None
+[2018-03-07 16:32:42.677487] INFO: jiekou: 返回结果:{'code': '000000'}
+[2018-03-07 16:32:42.678487] INFO: jiekou: 当前模块 断言测试结果
+[2018-03-07 16:32:42.679487] INFO: jiekou: 测试用例执行完毕
+[2018-03-07 16:33:30.456487] INFO: jiekou: 当前模块 requests封装
+[2018-03-07 16:33:30.477487] INFO: jiekou: 当前模块 解析测试用例文件
+[2018-03-07 16:33:30.564487] INFO: jiekou: 当前模块 解析测试用例文件
+[2018-03-07 16:33:30.568487] INFO: jiekou: 当前模块 测试
+[2018-03-07 16:33:30.620487] INFO: jiekou: inputdata> 参数:sasa, url:http://www.tuling123.com/openapi/api ,返回:{'text': '亲爱的，参数异常。', 'code': 40007},预期:code=40001
+[2018-03-07 16:33:30.621487] INFO: jiekou: 当前模块 断言测试结果
+[2018-03-07 16:33:31.170487] INFO: jiekou: inputdata> 参数:, url:https://api.douban.com/v2/photo/:id ,返回:{'request': 'GET /v2/photo/:id', 'msg': 'uri_not_found', 'code': 1001},预期:code=1001&msg=uri_not_found
+[2018-03-07 16:33:31.170487] INFO: jiekou: 当前模块 断言测试结果
+[2018-03-07 16:33:31.180487] INFO: jiekou: inputdata> 参数:{"username":"sun","password":"111"}, url:http://192.168.142.130:8888/signin ,返回:{'code': '000000'},预期:code=000000
+[2018-03-07 16:33:31.181487] INFO: jiekou: 当前模块 断言测试结果
+[2018-03-07 16:33:31.182487] INFO: jiekou: 当前模块 保存测试结果

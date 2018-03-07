@@ -1,0 +1,48 @@
+[2018-03-06 16:11:08.270487] INFO: jiekou: 当前模块 requests封装
+[2018-03-06 16:11:08.524487] INFO: jiekou: 当前模块 解析测试用例文件
+[2018-03-06 16:11:08.798487] INFO: jiekou: 当前模块 解析测试用例文件
+[2018-03-06 16:11:08.802487] INFO: jiekou: 当前模块 测试
+[2018-03-06 16:11:09.000487] INFO: jiekou: inputdata> 参数:sasa, url:http://www.tuling123.com/openapi/api ,返回:{'text': '您的请求内容为空。', 'code': 40007},预期:code=40001
+[2018-03-06 16:11:09.001487] INFO: jiekou: 当前模块 断言测试结果
+[2018-03-06 16:11:09.055487] INFO: jiekou: inputdata> 参数:, url:http://www.tuling123.com/openapi/api
+ ,返回:{'text': '您的请求内容为空。', 'code': 40007},预期:code=40002
+[2018-03-06 16:11:09.056487] INFO: jiekou: 当前模块 断言测试结果
+[2018-03-06 16:11:10.009487] INFO: jiekou: inputdata> 参数:, url:https://api.douban.com/v2/photo/:id ,返回:{'msg': 'uri_not_found', 'request': 'GET /v2/photo/:id', 'code': 1001},预期:code=1001&msg=uri_not_found
+[2018-03-06 16:11:10.010487] INFO: jiekou: 当前模块 断言测试结果
+[2018-03-06 16:11:10.056487] INFO: jiekou: post请求出错，出错原因:Expecting value: line 1 column 1 (char 0)
+[2018-03-06 16:11:33.298487] INFO: jiekou: 当前模块 requests封装
+[2018-03-06 16:11:33.340487] INFO: jiekou: 当前模块 解析测试用例文件
+[2018-03-06 16:11:33.360487] INFO: jiekou: 当前模块 解析测试用例文件
+[2018-03-06 16:11:33.363487] INFO: jiekou: 当前模块 测试
+[2018-03-06 16:11:33.447487] INFO: jiekou: inputdata> 参数:sasa, url:http://www.tuling123.com/openapi/api ,返回:{'text': '您的请求内容为空。', 'code': 40007},预期:code=40001
+[2018-03-06 16:11:33.447487] INFO: jiekou: 当前模块 断言测试结果
+[2018-03-06 16:11:33.499487] INFO: jiekou: inputdata> 参数:, url:http://www.tuling123.com/openapi/api
+ ,返回:{'text': '您的请求内容为空。', 'code': 40007},预期:code=40002
+[2018-03-06 16:11:33.500487] INFO: jiekou: 当前模块 断言测试结果
+[2018-03-06 16:11:34.200487] INFO: jiekou: inputdata> 参数:, url:https://api.douban.com/v2/photo/:id ,返回:{'msg': 'uri_not_found', 'request': 'GET /v2/photo/:id', 'code': 1001},预期:code=1001&msg=uri_not_found
+[2018-03-06 16:11:34.201487] INFO: jiekou: 当前模块 断言测试结果
+[2018-03-06 16:11:34.226487] INFO: jiekou: post请求出错，出错原因:Expecting value: line 1 column 1 (char 0)
+[2018-03-06 16:45:32.350487] INFO: jiekou: 当前模块 requests封装
+[2018-03-06 16:45:32.557487] INFO: jiekou: 当前模块 解析测试用例文件
+[2018-03-06 16:45:32.731487] INFO: jiekou: 当前模块 解析测试用例文件
+[2018-03-06 16:45:32.742487] INFO: jiekou: 当前模块 测试
+[2018-03-06 16:45:32.979487] INFO: jiekou: inputdata> 参数:sasa, url:http://www.tuling123.com/openapi/api ,返回:{'code': 40007, 'text': '您的请求内容为空。'},预期:code=40001
+[2018-03-06 16:45:32.980487] INFO: jiekou: 当前模块 断言测试结果
+[2018-03-06 16:45:33.031487] INFO: jiekou: inputdata> 参数:, url:http://www.tuling123.com/openapi/api
+ ,返回:{'code': 40007, 'text': '您的请求内容为空。'},预期:code=40002
+[2018-03-06 16:45:33.032487] INFO: jiekou: 当前模块 断言测试结果
+[2018-03-06 16:45:34.834487] INFO: jiekou: inputdata> 参数:, url:https://api.douban.com/v2/photo/:id ,返回:{'msg': 'uri_not_found', 'code': 1001, 'request': 'GET /v2/photo/:id'},预期:code=1001&msg=uri_not_found
+[2018-03-06 16:45:34.837487] INFO: jiekou: 当前模块 断言测试结果
+[2018-03-06 16:45:34.889487] INFO: jiekou: post请求出错，出错原因:Expecting value: line 1 column 1 (char 0)
+[2018-03-06 16:46:41.098487] INFO: jiekou: 当前模块 requests封装
+[2018-03-06 16:46:41.138487] INFO: jiekou: 当前模块 解析测试用例文件
+[2018-03-06 16:46:41.155487] INFO: jiekou: 当前模块 解析测试用例文件
+[2018-03-06 16:46:41.159487] INFO: jiekou: 当前模块 测试
+[2018-03-06 16:46:41.228487] INFO: jiekou: inputdata> 参数:sasa, url:http://www.tuling123.com/openapi/api ,返回:{'code': 40007, 'text': '您的请求内容为空。'},预期:code=40001
+[2018-03-06 16:46:41.229487] INFO: jiekou: 当前模块 断言测试结果
+[2018-03-06 16:46:41.282487] INFO: jiekou: inputdata> 参数:, url:http://www.tuling123.com/openapi/api
+ ,返回:{'code': 40007, 'text': '您的请求内容为空。'},预期:code=40002
+[2018-03-06 16:46:41.283487] INFO: jiekou: 当前模块 断言测试结果
+[2018-03-06 16:46:42.180487] INFO: jiekou: inputdata> 参数:, url:https://api.douban.com/v2/photo/:id ,返回:{'request': 'GET /v2/photo/:id', 'code': 1001, 'msg': 'uri_not_found'},预期:code=1001&msg=uri_not_found
+[2018-03-06 16:46:42.181487] INFO: jiekou: 当前模块 断言测试结果
+[2018-03-06 16:46:42.205487] INFO: jiekou: post请求出错，出错原因:Expecting value: line 1 column 1 (char 0)
