@@ -1,8 +1,9 @@
 # 接口测试框架（基于json格式、http请求,python3,不兼容python2.x版本） 
 
 
-##修复了原作者(https://github.com/liwanlei/jiekou-python3/)关于http重复请求bug
-##修复了reque封装post的bug
+## 修复了原作者关于http重复请求bug
+## 原作者：https://github.com/liwanlei/jiekou-python3
+## 修复了reque封装post的bug
 
 ## 注：现在基于Excel文件管理测试用例基本实现,)
 
