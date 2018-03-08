@@ -1,5 +1,9 @@
 # 接口测试框架（基于json格式、http请求,python3,不兼容python2.x版本） 
 
+
+##修复了原作者(https://github.com/liwanlei/jiekou-python3/)关于http重复请求bug
+##修复了reque封装post的bug
+
 ## 注：现在基于Excel文件管理测试用例基本实现,)
 
 ## (目前在部分window上会出现FileNotFoundError [Errno 2] No such file or directory，这个bug是路径过长,解决方案为吧log日志放在当前目录，或者修改动态生成的文件的名字，给了第一种方式，测试日志放在当前目录）
@@ -65,8 +69,6 @@
 ### 现在的测试结构更加完整，最新的一次提交增加了log日志的展示，使功能更加完善，log日志在控制台展示如下，对目录进行优化
 ![Alt text](https://github.com/liwanlei/jiekou/blob/master/img/log.png)
 
-##修改了原作者关于http重复请求bug
-##修复了reque封装post的bug
 
 
 
