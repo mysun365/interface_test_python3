@@ -10,7 +10,7 @@
 
 ### 使用脚本参数分离等思想，尽可能降低代码的耦合度。
 
-# 2017-11-1版本修改
+
 
 ## 引入ddt数据驱动和BSTestRunner，并且测试过程使用python的unittest库，运行可以使用run_new来运行测试，新的运行更加简单，对预期结果进行了自定义，
 
@@ -64,6 +64,9 @@
 ![Alt text](https://github.com/liwanlei/jiekou/blob/master/img/excel2.png)
 ### 现在的测试结构更加完整，最新的一次提交增加了log日志的展示，使功能更加完善，log日志在控制台展示如下，对目录进行优化
 ![Alt text](https://github.com/liwanlei/jiekou/blob/master/img/log.png)
+
+##修改了原作者关于http重复请求bug
+##修复了reque封装post的bug
 
 
 
